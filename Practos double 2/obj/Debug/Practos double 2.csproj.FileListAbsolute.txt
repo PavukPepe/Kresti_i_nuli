@@ -1,0 +1,15 @@
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\Practos double 2.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\MainWindow.g.cs
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\App.g.cs
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\Practos double 2_MarkupCompile.cache
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\Practos double 2_MarkupCompile.lref
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\bin\Debug\Practos double 2.exe.config
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\bin\Debug\Practos double 2.exe
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\bin\Debug\Practos double 2.pdb
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\MainWindow.baml
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\Practos double 2.g.resources
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\Practos_double_2.Properties.Resources.resources
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\Practos double 2.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\Practos double 2.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\Practos double 2.exe
+C:\Users\serge\source\repos\Practos double 2\Practos double 2\obj\Debug\Practos double 2.pdb

@@ -1,0 +1,24 @@
+﻿<Window x:Class="Practos_double_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Practos_double_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="421" Width="268" Background="White">
+    <Grid>
+        <Button x:Name="_1" Content="" HorizontalAlignment="Left" Margin="8,90,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="_1_Click" IsEnabled="False"/>
+        <Button x:Name="_2" Content="" HorizontalAlignment="Left" Margin="96,90,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="_1_Click" IsEnabled="False"/>
+        <Button x:Name="_3" Content="" HorizontalAlignment="Left" Margin="184,90,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="_1_Click" IsEnabled="False"/>
+        <Button x:Name="_4" Content="" HorizontalAlignment="Left" Margin="8,178,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="_1_Click" IsEnabled="False"/>
+        <Button x:Name="_5" Content="" HorizontalAlignment="Left" Margin="96,178,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="_1_Click" IsEnabled="False"/>
+        <Button x:Name="_6" Content="" HorizontalAlignment="Left" Margin="184,178,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="_1_Click" IsEnabled="False"/>
+        <Button x:Name="_7" Content="" HorizontalAlignment="Left" Margin="8,266,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="_1_Click" IsEnabled="False"/>
+        <Button x:Name="_8" Content="" HorizontalAlignment="Left" Margin="96,266,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="_1_Click" IsEnabled="False"/>
+        <Button x:Name="_9" Content="" HorizontalAlignment="Left" Margin="184,266,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="_1_Click" IsEnabled="False"/>
+        <Button x:Name="changeplayer" Content="Смена игрока" HorizontalAlignment="Left" Margin="184,355,0,0" VerticalAlignment="Top" Height="40" Width="80" Click="Button_Click_1"/>
+        <Label x:Name="Status" Content="" HorizontalAlignment="Center" Margin="0,33,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Start_but" Content="Новая игра" HorizontalAlignment="Left" Margin="8,355,0,0" Height="40" Width="168" VerticalAlignment="Top" Click="Start_Click"/>
+
+    </Grid>
+</Window>
